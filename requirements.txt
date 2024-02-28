@@ -1,0 +1,6 @@
+langchain # Framework para LLM
+langserve[all] # Framework para deploy
+langchain-cli # Linea de comandos para servir la app
+unstructured # Carga de documentos
+faiss-cpu # Base de datos optimizada para vectores
+langserve[all] # Para servir una API Rest LangChain
